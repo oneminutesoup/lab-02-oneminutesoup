@@ -5,5 +5,6 @@
     android:layout_height="wrap_content"
     android:padding="20dp"
     android:text="sample text"
-    android:textSize="40sp">
+    android:textSize="40sp"
+    android:background="?android:attr/activatedBackgroundIndicator">
 </TextView>
